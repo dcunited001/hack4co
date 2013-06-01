@@ -31,13 +31,13 @@ ArcGIS
 - look up conditions, symtoms, treatments
 - JSON Rest API
 
-## [Sendgrid](http://sendgrid.com/) - Brandon? West (Elmer & Nick)
+## [Sendgrid](http://sendgrid.com/)
 
 - Click Tracking 4 Emails
 - Tools for marketing campaingns
 - A/B Testing
 
-## [Alchemy API](http://www.alchemyapi.com/) - Sean
+## [Alchemy API](http://www.alchemyapi.com/)
 
 NLP API
 - Sentiment Analysis
@@ -90,7 +90,7 @@ Aggregates Local Datasets from Colorado
 - employment numbers
 - construction
 
-#### American Community Survey
+#### American Community Survey Challenges
 - ???
 - plan for disasters
 
@@ -103,7 +103,7 @@ Aggregates Local Datasets from Colorado
 - [Register](developer.codataengine.com/user/register)
 - helped co-fund colorado rails engine
 
-## [Center for Improving Value for Healthcare](http://www.civhc.org/) Bob Kirshner?
+## [Center for Improving Value for Healthcare](http://www.civhc.org/)
 
 - releasing more detailed level database in december
 - shows how much health care cost per local area
@@ -121,13 +121,6 @@ idea narrowing - set a vision
 - narrow it down by adding details
 
 #### REMAAPS
-
-1. revers/rearrange
-1.
-1.
-1.
-1.
-1.
 
 reverse/rearrange
 - what arrangement might be better
